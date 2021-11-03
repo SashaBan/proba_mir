@@ -1,4 +1,4 @@
 # proba_mir
 привет мир
 
-The list of demands: accuracy, urgency, attentiveness.
+The list of demands: accuracy, urgency, attentiveness and cohesion.
